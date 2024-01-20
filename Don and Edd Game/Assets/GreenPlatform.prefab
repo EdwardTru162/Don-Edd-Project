@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3760988849310094605}
   m_Layer: 0
-  m_Name: New Prefab
+  m_Name: GreenPlatform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
